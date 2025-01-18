@@ -1,1 +1,2 @@
-# Backscatter
+# Backscatter Bit Error Rate Tester for Energy-Neutral Devices
+The project investigates how RF signals can be utilized to power energy-neutral devices (ENDs), which in turn transmit data through RF backscattering. The main goal is to analyze the Bit Error Rate (BER) of backscatter uplinks. The experiments will employ on-off keying (OOK) demodulation with Xlating FIR filtering and hysteresis-based thresholding to process the backscattered signals, recover the binary data, and evaluate the BER. Additionally, synchronization was implemented using the early-late method to enhance the accuracy of the signal processing and BER analysis.
